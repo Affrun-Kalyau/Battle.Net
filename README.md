@@ -22,15 +22,15 @@ Download Battle.net to access top Blizzard games like World of Warcraft, Overwat
 
 **Why Battle.net?**
 
-  **Access top Blizzard games**
+   **Access top Blizzard games**
 
-  **Convenient gaming platform**
+   **Convenient gaming platform**
 
-  **Regular content updates**
+   **Regular content updates**
 
-  **Esports and community support**
+   **Esports and community support**
 
-  **Cross-platform compatibility**
+   **Cross-platform compatibility**
 
 
 
